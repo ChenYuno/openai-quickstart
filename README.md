@@ -146,3 +146,13 @@ Django Peng - pjt73651@email.com
 
 项目链接: https://github.com/DjangoPeng/openai-quickstart
 
+
+
+
+finished homework:
+1.gpt-4v
+2.openai-translator
+3.router-chain
+4.sales-chatbot
+sales-chatbot running:
+![](./img.png)
